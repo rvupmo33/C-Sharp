@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarDemoApp_SEC402/1.0.0": {
+        "runtime": {
+          "CarDemoApp_SEC402.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarDemoApp_SEC402/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

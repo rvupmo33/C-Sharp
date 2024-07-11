@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtomClass_SEC402/1.0.0": {
+        "runtime": {
+          "AtomClass_SEC402.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtomClass_SEC402/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

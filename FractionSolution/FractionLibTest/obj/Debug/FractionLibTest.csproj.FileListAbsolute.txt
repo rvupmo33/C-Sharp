@@ -1,0 +1,11 @@
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/FractionLibTest.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/FractionLibTest.pdb
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/FractionLib.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/nunit.framework.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/FractionLib.pdb
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/bin/Debug/nunit.framework.xml
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/obj/Debug/FractionLibTest.csproj.AssemblyReference.cache
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/obj/Debug/FractionLibTest.csproj.CoreCompileInputs.cache
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/obj/Debug/FractionLibTest.csproj.CopyComplete
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/obj/Debug/FractionLibTest.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLibTest/obj/Debug/FractionLibTest.pdb

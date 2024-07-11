@@ -1,0 +1,6 @@
+/Users/ab235/Desktop/BadRectangleDemo/bin/Debug/BadRectangleDemo.exe
+/Users/ab235/Desktop/BadRectangleDemo/bin/Debug/BadRectangleDemo.pdb
+/Users/ab235/Desktop/BadRectangleDemo/obj/Debug/BadRectangleDemo.csproj.AssemblyReference.cache
+/Users/ab235/Desktop/BadRectangleDemo/obj/Debug/BadRectangleDemo.csproj.CoreCompileInputs.cache
+/Users/ab235/Desktop/BadRectangleDemo/obj/Debug/BadRectangleDemo.exe
+/Users/ab235/Desktop/BadRectangleDemo/obj/Debug/BadRectangleDemo.pdb

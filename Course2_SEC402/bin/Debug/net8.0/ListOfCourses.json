@@ -1,0 +1,5 @@
+{"Code":"COMP100","Description":"Intro to Programming","Name":"Programming 1","Prerequisites":"","Semester":1}
+{"Code":"COMP200","Description":"Data Structures","Name":"Advanced Programming","Prerequisites":"","Semester":2}
+{"Code":"MATH150","Description":"Calculus I","Name":"Mathematics","Prerequisites":"MATH101","Semester":1}
+{"Code":"ENG220","Description":"Modern Literature","Name":"Literature","Prerequisites":"","Semester":2}
+{"Code":"PHYS201","Description":"Physics II","Name":"Science","Prerequisites":"PHYS101","Semester":2}

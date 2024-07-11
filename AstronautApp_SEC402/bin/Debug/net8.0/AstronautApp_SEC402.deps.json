@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AstronautApp_SEC402/1.0.0": {
+        "runtime": {
+          "AstronautApp_SEC402.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AstronautApp_SEC402/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

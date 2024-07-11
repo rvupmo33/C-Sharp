@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling_Sample_SEC402", "ExceptionHandling_Sample_SEC402.csproj", "{720BD019-ECAD-4988-B9B9-9CAC3C76570C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720BD019-ECAD-4988-B9B9-9CAC3C76570C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720BD019-ECAD-4988-B9B9-9CAC3C76570C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720BD019-ECAD-4988-B9B9-9CAC3C76570C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720BD019-ECAD-4988-B9B9-9CAC3C76570C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

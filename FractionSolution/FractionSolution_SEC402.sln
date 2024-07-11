@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionLibTest", "FractionLibTest\FractionLibTest.csproj", "{C99CBF32-14AC-4D65-8EBC-227250D08B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionLib", "FractionLib\FractionLib.csproj", "{2E2B3EB8-9451-44A4-B8E3-74D28E843654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99CBF32-14AC-4D65-8EBC-227250D08B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99CBF32-14AC-4D65-8EBC-227250D08B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99CBF32-14AC-4D65-8EBC-227250D08B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99CBF32-14AC-4D65-8EBC-227250D08B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2B3EB8-9451-44A4-B8E3-74D28E843654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B3EB8-9451-44A4-B8E3-74D28E843654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B3EB8-9451-44A4-B8E3-74D28E843654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B3EB8-9451-44A4-B8E3-74D28E843654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

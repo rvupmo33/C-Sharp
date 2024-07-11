@@ -1,0 +1,6 @@
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/bin/Debug/FractionLib.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/bin/Debug/FractionLib.pdb
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/obj/Debug/FractionLib.csproj.AssemblyReference.cache
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/obj/Debug/FractionLib.csproj.CoreCompileInputs.cache
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/obj/Debug/FractionLib.dll
+/Users/ab235/Desktop/C-sharp/FractionSolution/FractionLib/obj/Debug/FractionLib.pdb

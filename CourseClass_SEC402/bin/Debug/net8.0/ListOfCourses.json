@@ -1,0 +1,5 @@
+{"Code":"COMP100","Description":"Intro to Programming","Name":"Programming I","Prerequisites":"None","Semester":1}
+{"Code":"MATH101","Description":"Calculus I","Name":"Introduction to Calculus","Prerequisites":"None","Semester":1}
+{"Code":"PHYS101","Description":"Physics I","Name":"Fundamentals of Physics","Prerequisites":"None","Semester":1}
+{"Code":"CHEM101","Description":"Chemistry I","Name":"Basic Chemistry Concepts","Prerequisites":"None","Semester":1}
+{"Code":"ENG101","Description":"English Composition","Name":"Writing and Composition Skills","Prerequisites":"None","Semester":1}
